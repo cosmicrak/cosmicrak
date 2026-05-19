@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rakshit 👋
 
-<!--
-**cosmicrak/cosmicrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE student currently building strong foundations in Cloud, DevOps, Linux, Git, Networking, and Java DSA.
 
-Here are some ideas to get you started:
+## Current Focus
+- Linux command line
+- Git and GitHub
+- Networking fundamentals
+- Java DSA basics
+- Cloud and DevOps foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning Plan
+I am following a roadmap focused on:
+Linux → Git → Python → AWS → Docker → Projects
+
+## Tools I'm Learning
+- Linux / Ubuntu WSL
+- Git and GitHub
+- Java
+- PowerShell
+- Basic networking commands
+
+## Goal
+To become ready for Cloud / DevOps / Systems internships and entry-level roles.
