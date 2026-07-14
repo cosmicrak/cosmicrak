@@ -1,6 +1,6 @@
-# Hi, I'm Rakshit 👋
+# Hi dude , I'm Rakshit 👋
 
-I'm a B.Tech CSE student currently building strong foundations in Cloud, DevOps, Linux, Git, Networking, and Java DSA.
+I'm a pre-final year  B.Tech CSE student currently building strong foundations in Backend , Cloud, DevOps, Linux, Git, Networking, and Java DSA.
 
 ## Current Focus
 - Linux command line
@@ -8,6 +8,7 @@ I'm a B.Tech CSE student currently building strong foundations in Cloud, DevOps,
 - Networking fundamentals
 - Java DSA basics
 - Cloud and DevOps foundations
+- Backend development
 
 ## Current Learning Plan
 I am following a roadmap focused on:
@@ -19,6 +20,10 @@ Linux → Git → Python → AWS → Docker → Projects
 - Java
 - PowerShell
 - Basic networking commands
+- AWS , Azure , GCP
+- Docker , Kubernetes , Terraform
+- Machine learning Jupyter notebooks
+- 
 
 ## Goal
-To become ready for Cloud / DevOps / Systems internships and entry-level roles.
+To become ready for Cloud / Backend / Systems internships and entry-level roles.
